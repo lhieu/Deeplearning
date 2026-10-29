@@ -55,10 +55,10 @@ python train.py
 | StarNetLite | 305,604 | **96.30%** | **96.30%** | L4 | 31.8 phút |
 
 ### CustomFruitNet (CNN)
-![CNN](results/chart_cnn.png)
+![Kết quả huấn luyện CustomFruitNet](<Kết quả huấn luyện/kqhl CustomFruitnet.png>)
 
 ### StarNetLite
-![StarNet](results/chart_starnet.png)
+![Kết quả huấn luyện StarNetLite](<Kết quả huấn luyện/kqhl StarNetLite.png>)
 
 ## Nhận xét
 
